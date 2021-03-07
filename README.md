@@ -10,5 +10,12 @@ Refactor existing code of a website for improved accessibility and long-term sus
 ## Website
 https://rwyland189.github.io/Code-Refactor/
 
+## Screenshots
+![Horiseon Screenshot 1](/images/code-refactor-screenshot-1.png)
+
+![Horiseon Screenshot 2](/images/code-refactor-screenshot-2.png)
+
+![Horiseon Screenshot 3](/images/code-refactor-screenshot-3.png)
+
 ## Contribution
 Made by Becca Wyland
